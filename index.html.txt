@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frederick Yeung's CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77aaff 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+            font-size: 24px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #77aaff;
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+        }
+        .contact {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        .contact div {
+            flex: 1;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Frederick Yeung</h1>
+    </header>
+    <div class="container">
+        <div class="contact">
+            <div>Richmond, BC</div>
+            <div>778 927 6948</div>
+            <div><a href="mailto:hei62233@gmail.com">hei62233@gmail.com</a></div>
+            <div><a href="https://www.linkedin.com/in/wang-hei-frederick-yeung">LinkedIn</a></div>
+        </div>
+
+        <div class="section">
+            <h2>Self-Introduction</h2>
+            <p>Experienced assistant quantity surveyor with an international consultants background and part-time BIM modeling work, specializing in cost estimation, risk evaluation, and budget management. Proficient in analyzing drawings, conducting take-offs, and delivering accurate cost estimates.</p>
+        </div>
+
+        <div class="section">
+            <h2>Work Experience</h2>
+            <h3>Arcadis Hong Kong Limited, Hong Kong</h3>
+            <p><strong>Assistant Quantity Surveyor</strong> - Jul 2021 - Feb 2023</p>
+            <ul>
+                <li>Collaborated with Hong Kong Airport Authority stakeholders to analyze economic motivation of client while assessing impact of variation orders, and quantified overall cost implications on the 2 billion part in a 12 billion construction project i.e. Expansion of Terminal 2.</li>
+                <li>Streamlined contractor-client relationship through comprehensive contract reviews & transparent consultation.</li>
+            </ul>
+
+            <h3>isBIM Limited, Hong Kong</h3>
+            <p><strong>Part-time BIM Modeller</strong> - Jun 2019 - Dec 2019</p>
+            <ul>
+                <li>Reviewed 3D models in Naviswork to guarantee accuracy of clash detection documentation & identify cost-saving design opportunities, resulting in a budget as well as time reduction.</li>
+                <li>Optimized workflows through systematizing the conversion process and streamlining redundant sections in City University of Hong Kong Sports Centre’s project.</li>
+                <li>Advised on constructing BIM models via CAD software, which reduced time required for drawing sketches & plans of the building interior in Hong Kong University Main Building’s project.</li>
+            </ul>
+
+            <h3>Great Canadian Entertainment, Richmond, CA</h3>
+            <p><strong>Banquet Server (Part-time)</strong> - May 2023 - Present</p>
+            <ul>
+                <li>Serving guests menu items in a prompt and courteous manner and checking to ensure satisfaction.</li>
+                <li>Maintaining table setting by removing courses as completed, replenishing utensils and being alert to patron spills.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Skills & Language</h2>
+            <p><strong>Skills:</strong> Bluebeam, Cost X (measuring tools), Autodesk (AutoCAD, Revit, Naviswork)</p>
+            <p><strong>Language:</strong> English, Cantonese, Mandarin</p>
+        </div>
+
+        <div class="section">
+            <h2>Education</h2>
+            <p><strong>The Hong Kong Polytechnic University, Hong Kong</strong></p>
+            <p>Major in B. Sc. (Hons) Surveying, Graduation Date: Sep 2021</p>
+        </div>
+
+        <div class="section">
+            <h2>Availability</h2>
+            <p>Immediately Available With Two Weeks Notice</p>
+        </div>
+    </div>
+</body>
+</html>
